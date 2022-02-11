@@ -1,4 +1,13 @@
-### Hi there 👋
+# どうもっす！
+
+Perkenalkan namaku **Rizqi Muhammad Khatami Sandi**.\
+Biasa sih dipanggil mks ;)
+
+Aku mahasiswa S1 Teknik Informatika di Universitas Singaperbangsa Karawang
+
+Aku suka belajar bahasa! :)
+
+Kalo kamu mau kenalan, silakan cek akun [Instagram](https://www.instagram.com/houtarou_rizuki/)ku ya.
 
 <!--
 **mksdesuyo/mksdesuyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
