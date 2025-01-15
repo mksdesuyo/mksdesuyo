@@ -12,7 +12,7 @@ Kalo kamu mau kenalan, silakan cek akun [Instagram](https://www.instagram.com/ho
 <p align="left">
 <a href="https://github.com/mksdesuyo">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mksdesuyo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mksdesuyo&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mksdesuyo&layout=compact&langs_count=8&theme=algolia&count_private=true"/>
 </a>
 </p>
 <!--
